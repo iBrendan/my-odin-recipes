@@ -1,0 +1,30 @@
+body {
+    background-color: #8181f7;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 60px 60px 20px;
+    border: 5px solid hsl(13, 11%, 25%);
+}
+
+p, 
+li {
+    font-family: Helvetica, 'Times New Roman', serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: Helvetica, 'Times New Roman', serif;
+    font-size: 28px; 
+    margin: auto;
+    width: 50%;
+    padding: 20px 20px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: auto;
+}
